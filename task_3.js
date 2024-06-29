@@ -1,0 +1,3 @@
+function myFunc(){
+	const obj = {};
+}
